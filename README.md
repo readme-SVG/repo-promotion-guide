@@ -298,6 +298,7 @@ Twitter/X remains the primary social network for developers.
 | [Futurepedia](https://www.futurepedia.io) | AI tools directory (for AI projects) |
 | [There's An AI For That](https://theresanaiforthat.com) | AI tools aggregator |
 | [Free for Dev](https://free-for.dev) | If your tool has a free tier, get listed here |
+| [MEDIAPRONET](https://mediapronet.com) | Curated directory for new startups, SaaS tools and indie products |
 
 ---
 
