@@ -299,6 +299,7 @@ Twitter/X remains the primary social network for developers.
 | [There's An AI For That](https://theresanaiforthat.com) | AI tools aggregator |
 | [Free for Dev](https://free-for.dev) | If your tool has a free tier, get listed here |
 | [MEDIAPRONET](https://mediapronet.com) | Curated directory for new startups, SaaS tools and indie products |
+| [Public Prompts](https://www.publicprompts.art) | Curated AI-tool and prompt directory — free to browse, owner submissions paid (US$19.99 + tax) |
 
 ---
 
