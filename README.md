@@ -198,6 +198,14 @@ Reddit is one of the best platforms to promote your project. The key is picking 
 - Submit articles about technical aspects of your project.
 - Good for enterprise/Java/DevOps audience.
 
+### daily.dev
+
+[daily.dev](https://daily.dev) — a feed that millions of developers open every day to find new tools and posts.
+
+- Share a write-up that teaches something, not a product page. Posts spread through upvotes and topic feeds.
+- Add the right tags so the post reaches developers who follow that topic.
+- For an ongoing channel, [daily.dev for Startups](https://daily.dev/startups/) gives a developer tool its own page and keeps its posts in front of developers after launch day (paid).
+
 ---
 
 ## 📱 Social Media
